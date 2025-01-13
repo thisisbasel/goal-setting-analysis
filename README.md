@@ -1,3 +1,6 @@
 # goal-setting-analysis
 
 Scripts for analysis of how student set and pivot goals in puzzle game, _Baba is You_
+
+Apply unsupervised machine leanring to explore patterns in goal-setting behavior within and across levels. 
+
