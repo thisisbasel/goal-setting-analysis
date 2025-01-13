@@ -1,0 +1,17 @@
+out_of_reach,brick_wall,crab_storage,count,multilevel_1,multilevel_2
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,32,a,a
+high-returns_fast-reframe_oor,low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,4,b,b1
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,3,b,b1
+low-returns_slow-reframe_oor,low-returns_slow-reframe_bw,low-returns_fast-reframe_cs,2,b,b2
+high-returns_fast-reframe_oor,high-returns_fast-reframe_bw,low-returns_fast-reframe_cs,1,b,b2
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,6,c,c1
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,low-returns_slow-reframe_cs,4,c,c1
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,high-returns_fast-reframe_cs,4,c,c2
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,low-returns_slow-reframe_cs,2,c,c2
+low-returns_fast-reframe_oor,high-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1,c,c2
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,low-returns_fast-reframe_cs,11,d,d1
+low-returns_fast-reframe_oor,high-returns_fast-reframe_bw,low-returns_fast-reframe_cs,5,d,d1
+high-returns_fast-reframe_oor,low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1,d,d2
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1,d,d2
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,low-returns_slow-reframe_cs,1,d,d2
+low-returns_slow-reframe_oor,low-returns_slow-reframe_bw,high-returns_fast-reframe_cs,1,d,d2

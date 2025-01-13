@@ -1,0 +1,16 @@
+source,target,value
+high-returns_fast-reframe_oor,high-returns_fast-reframe_bw,1
+high-returns_fast-reframe_oor,low-returns_fast-reframe_bw,5
+low-returns_fast-reframe_oor,high-returns_fast-reframe_bw,6
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,42
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,17
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,5
+low-returns_slow-reframe_oor,low-returns_slow-reframe_bw,3
+high-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1
+high-returns_fast-reframe_bw,low-returns_fast-reframe_cs,6
+low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,8
+low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,39
+low-returns_fast-reframe_bw,low-returns_slow-reframe_cs,5
+low-returns_slow-reframe_bw,high-returns_fast-reframe_cs,5
+low-returns_slow-reframe_bw,low-returns_fast-reframe_cs,13
+low-returns_slow-reframe_bw,low-returns_slow-reframe_cs,2

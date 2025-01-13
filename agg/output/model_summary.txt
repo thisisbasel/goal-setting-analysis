@@ -1,0 +1,28 @@
+Regression Results
+=================
+
+R-squared: 0.1711
+Adjusted R-squared: -0.0295
+AIC: 603.8562
+BIC: 641.5636
+
+Coefficients Summary (Sorted by N):
+-----------------------------------
+                                                                         index     Coef.  Std.Err.         t P>|t|     [0.025    0.975] Significance                                                                       Sequence    N
+  low-returns_fast-reframe->low-returns_fast-reframe->low-returns_fast-reframe  5.908843  2.635249  2.242234 0.029   0.641056 11.176631            *   low-returns_fast-reframe->low-returns_fast-reframe->low-returns_fast-reframe 31.0
+  low-returns_fast-reframe->low-returns_slow-reframe->low-returns_fast-reframe  0.146380  3.566420  0.041044 0.967  -6.982791  7.275551                low-returns_fast-reframe->low-returns_slow-reframe->low-returns_fast-reframe 11.0
+ low-returns_fast-reframe->low-returns_fast-reframe->high-returns_fast-reframe -4.338468  4.492047 -0.965811 0.338 -13.317942  4.641005               low-returns_fast-reframe->low-returns_fast-reframe->high-returns_fast-reframe  6.0
+ low-returns_fast-reframe->high-returns_fast-reframe->low-returns_fast-reframe -3.071802  4.843604 -0.634197 0.528 -12.754029  6.610425               low-returns_fast-reframe->high-returns_fast-reframe->low-returns_fast-reframe  5.0
+ low-returns_fast-reframe->low-returns_slow-reframe->high-returns_fast-reframe  3.078198  5.327620  0.577781 0.566  -7.571562 13.727958               low-returns_fast-reframe->low-returns_slow-reframe->high-returns_fast-reframe  4.0
+ high-returns_fast-reframe->low-returns_fast-reframe->low-returns_fast-reframe  0.828198  5.327620  0.155454 0.877  -9.821562 11.477958               high-returns_fast-reframe->low-returns_fast-reframe->low-returns_fast-reframe  4.0
+  low-returns_fast-reframe->low-returns_fast-reframe->low-returns_slow-reframe -2.671802  5.327620 -0.501500 0.618 -13.321562  7.977958                low-returns_fast-reframe->low-returns_fast-reframe->low-returns_slow-reframe  4.0
+  low-returns_slow-reframe->low-returns_fast-reframe->low-returns_fast-reframe -3.005135  6.048849 -0.496811 0.621 -15.096613  9.086343                low-returns_slow-reframe->low-returns_fast-reframe->low-returns_fast-reframe  3.0
+  low-returns_fast-reframe->low-returns_slow-reframe->low-returns_slow-reframe  7.328198  7.280019  1.006618 0.318  -7.224352 21.880749                low-returns_fast-reframe->low-returns_slow-reframe->low-returns_slow-reframe  2.0
+  low-returns_slow-reframe->low-returns_slow-reframe->low-returns_fast-reframe  1.828198  7.280019  0.251125 0.803 -12.724352 16.380749                low-returns_slow-reframe->low-returns_slow-reframe->low-returns_fast-reframe  2.0
+ low-returns_slow-reframe->low-returns_fast-reframe->high-returns_fast-reframe 10.328198 10.110834  1.021498 0.311  -9.883070 30.539467               low-returns_slow-reframe->low-returns_fast-reframe->high-returns_fast-reframe  1.0
+low-returns_fast-reframe->high-returns_fast-reframe->high-returns_fast-reframe  5.328198 10.110834  0.526979 0.600 -14.883070 25.539467              low-returns_fast-reframe->high-returns_fast-reframe->high-returns_fast-reframe  1.0
+ low-returns_slow-reframe->low-returns_slow-reframe->high-returns_fast-reframe -2.671802 10.110834 -0.264251 0.792 -22.883070 17.539467               low-returns_slow-reframe->low-returns_slow-reframe->high-returns_fast-reframe  1.0
+high-returns_fast-reframe->low-returns_fast-reframe->high-returns_fast-reframe -3.671802 10.110834 -0.363155 0.718 -23.883070 16.539467              high-returns_fast-reframe->low-returns_fast-reframe->high-returns_fast-reframe  1.0
+high-returns_fast-reframe->high-returns_fast-reframe->low-returns_fast-reframe -5.671802 10.110834 -0.560963 0.577 -25.883070 14.539467              high-returns_fast-reframe->high-returns_fast-reframe->low-returns_fast-reframe  1.0
+  low-returns_slow-reframe->low-returns_fast-reframe->low-returns_slow-reframe -9.671802 10.110834 -0.956578 0.342 -29.883070 10.539467                low-returns_slow-reframe->low-returns_fast-reframe->low-returns_slow-reframe  1.0
+                                                                         const 36.615385  1.201102 30.484828 0.000  34.214416 39.016353          ***                                                                          const  NaN

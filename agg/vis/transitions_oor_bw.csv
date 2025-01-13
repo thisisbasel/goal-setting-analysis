@@ -1,0 +1,8 @@
+out_of_reach,brick_wall,count
+high-returns_fast-reframe_oor,high-returns_fast-reframe_bw,1
+high-returns_fast-reframe_oor,low-returns_fast-reframe_bw,5
+low-returns_fast-reframe_oor,high-returns_fast-reframe_bw,6
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,42
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,17
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,5
+low-returns_slow-reframe_oor,low-returns_slow-reframe_bw,3

@@ -1,0 +1,9 @@
+brick_wall,crab_storage,count
+high-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1
+high-returns_fast-reframe_bw,low-returns_fast-reframe_cs,6
+low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,8
+low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,39
+low-returns_fast-reframe_bw,low-returns_slow-reframe_cs,5
+low-returns_slow-reframe_bw,high-returns_fast-reframe_cs,5
+low-returns_slow-reframe_bw,low-returns_fast-reframe_cs,13
+low-returns_slow-reframe_bw,low-returns_slow-reframe_cs,2

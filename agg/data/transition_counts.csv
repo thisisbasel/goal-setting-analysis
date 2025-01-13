@@ -1,0 +1,17 @@
+out_of_reach,brick_wall,crab_storage,count,ID_list
+high-returns_fast-reframe_oor,high-returns_fast-reframe_bw,low-returns_fast-reframe_cs,1,[200]
+high-returns_fast-reframe_oor,low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1,[210]
+high-returns_fast-reframe_oor,low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,4,"[90, 194, 202, 241]"
+low-returns_fast-reframe_oor,high-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1,[176]
+low-returns_fast-reframe_oor,high-returns_fast-reframe_bw,low-returns_fast-reframe_cs,5,"[76, 151, 181, 208, 252]"
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,6,"[22, 74, 143, 156, 183, 220]"
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,32,"[6, 35, 37, 38, 41, 62, 70, 73, 80, 91, 105, 109, 126, 134, 149, 150, 182, 185, 191, 193, 195, 196, 197, 198, 204, 217, 219, 221, 226, 230, 240, 248]"
+low-returns_fast-reframe_oor,low-returns_fast-reframe_bw,low-returns_slow-reframe_cs,4,"[83, 136, 192, 251]"
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,high-returns_fast-reframe_cs,4,"[42, 46, 205, 242]"
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,low-returns_fast-reframe_cs,11,"[12, 23, 26, 53, 67, 71, 123, 184, 215, 225, 237]"
+low-returns_fast-reframe_oor,low-returns_slow-reframe_bw,low-returns_slow-reframe_cs,2,"[121, 236]"
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,high-returns_fast-reframe_cs,1,[227]
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,low-returns_fast-reframe_cs,3,"[117, 166, 235]"
+low-returns_slow-reframe_oor,low-returns_fast-reframe_bw,low-returns_slow-reframe_cs,1,[152]
+low-returns_slow-reframe_oor,low-returns_slow-reframe_bw,high-returns_fast-reframe_cs,1,[100]
+low-returns_slow-reframe_oor,low-returns_slow-reframe_bw,low-returns_fast-reframe_cs,2,"[63, 147]"
